@@ -1,0 +1,704 @@
+This is a document from Webflow titled "The AEO Divide". It discusses the gap between strategy and execution.
+
+- Text: ✓ Webflow
+The AEO Divide
+Why strategy and execution
+aren't matching up
+Aa
+- Images: The image shows the Webflow logo. There is also various design elements of a UI floating.
+
+- Context: This is page 1 of the document, which serves as the table of contents.
+- Text: Table of Contents
+Introduction
+2
+Patterns among high-maturity
+AEO teams
+4
+How AEO exposes deeper
+organizational gaps
+10
+Four moves to drive AEO success
+15
+Conclusion
+20
+The AEO Divide
+1
+- Images: No images on this page.
+
+
+- Context: This page is about technical SEO and content architecture.
+- Text: Technical SEO and content
+architecture work as the
+skeleton and central nervous
+system of an AEO strategy.
+
+Many marketers consider technical SEO a
+set-it-and-forget-it exercise or a job for the
+engineering team. In reality, SEO best
+practices change with new algorithm updates
+and evolving user behavior. A successful AEO
+strategy requires regular technical audits to
+ensure the website is optimized for Al-powered
+answer engines to easily crawl, understand,
+and validate content.
+3
+- Images: No images are present on this page.
+
+Here is the OCR output for the given page.
+- Context: This page contains a breakdown of the AEO Maturity Model, categorizing organizations into stages based on their AEO approach. It outlines characteristics of organizations at each maturity level, from Foundational to Leader.
+- Text: The AEO Maturity Model
+We categorize organizations into four stages of AEO maturity, as defined by their approach to AEO strategy,
+team structure, resource allocation, technology, and measurement.
+Foundational
+Emerging
+Optimized
+Leader
+AEO is a novel discipline.
+Marketing leadership lacks
+commitment and awareness.
+AEO is a nascent discipline with
+executive-level support from a few
+champions.
+AEO is a key marketing discipline that
+benefits from cross-functional collaboration
+across teams.
+AEO is an essential business driver,
+supported by a top-down AEO-first
+approach and significant investment.
+AEO is managed in silos, often in
+search or content teams.
+Initial AEO team development,
+however, there is no clear team
+ownership of AEO.
+Dedicated AEO roles with centralized
+ownership, enabling standardization and
+documentation of process.
+AEO is supported by an entire center of
+excellence, with designated teams focused
+on enablement and evangelism.
+The AEO function lacks clearly defined
+processes or measurement.
+Initial investment in AEO tooling, with
+budgets earmarked for external vendors
+and services.
+Adoption of a best-of-breed AEO tech stack
+to optimize and scale AEO efforts, as well as
+ongoing investments in resources.
+AEO tech stack is fully embedded in the
+organization and is continuously evaluated
+and updated to drive further efficiency and
+effectiveness.
+The organization lacks clarity into how
+AEO drives revenue.
+The organization has preliminary
+insights into the ROI of AEO and is
+working to refine measurement.
+Strong understanding of the impact of AEO
+on the bottom line, resulting in clear insights
+into opportunities to improve performance.
+The organization demonstrates AEO excellence
+by measuring its impact on topline revenue
+and driving significant cost savings.
+The AEO Divide
+4
+- Images: No images were detected on this page.
+
+
+- Context: This is the first page of a section or report, possibly an introduction. It highlights the patterns found among high-maturity AEO teams.
+- Text: 01
+Patterns among
+high-maturity
+AEO teams
+Our data shows a clear set of organizational
+patterns among teams that report higher AEO
+execution maturity.
+- Images: The image shows a text overlay on a gradient background. The background colors transition from blue to purple. The text on the image includes "01", "Patterns among high-maturity AEO teams", and a paragraph describing the data.
+
+
+Here is the OCR output for the provided page.
+
+# Context:
+This page discusses challenges faced by AEO teams. It highlights the importance of having a clear and consistent content strategy, and avoiding overly broad or generalized content.
+
+# Text:
+CHALLENGE: "There's so much noise"
+Across the board, AEO teams struggle with the sheer
+scale of the web, and the amount of content they
+need to consider, monitor, and update. The larger an
+organization is, the more content they tend to have,
+and the more difficult it is to track.
+“Our team is always thinking about the
+challenge of making sure our content is
+discoverable amongst all the noise, and the
+competition is only going to grow,” says
+Kirsty Hulse, SEO Consultant and CEO of
+Roar! Training.
+On top of that, many AEO teams are held back by
+their reliance on generalized content. When content is
+broad, rather than specific, the search engines will
+struggle to understand the topics.
+"If content is really broad, like 'What is
+digital transformation?', then search
+engines and AIs will not understand that
+you are an expert and that it's relevant to
+your business," says Lily Ray, Senior
+Director, SEO & Head of Organic Research
+at Amsive Digital.
+Many AEO teams are using similar, if not
+identical, content to other companies. This is
+especially true when organizations rely on third-party
+content providers.
+"AEO teams who are using commoditized
+content have no chance of showing up in
+search," says Bill Slawski, Director of SEO
+Research at Go Fish Digital.
+
+# Images:
+There are no images on this page.
+
+- Context: This page discusses the impact of AEO on businesses and some of the benefits businesses have seen.
+- Text: The AEO Divide
+In our experience and research,
+organizations often struggle to
+establish the right level of commitment
+across the business needed for
+consistent AEO execution. Our 2023
+AEO survey indicates a divide in the
+outcomes achieved between those who
+fully embrace AEO and those who do
+not.
+How businesses are
+benefiting from AEO
+AEO efforts are generating strong results for
+organizations. We asked them to report
+on which benefits they're experiencing.
+% of respondents
+70%
+63%
+56%
+35%
+31%
+25%
+Improved rankings
+in search engines
+Increased web
+traffic
+Increased brand
+awareness
+Increased lead
+generation
+Improved customer
+satisfaction
+Increased sales
+conversion
+7
+- Images: There is a bar chart showing the benefits businesses are experiencing from AEO:
+Improved rankings in search engines: 70%
+Increased web traffic: 63%
+Increased brand awareness: 56%
+Increased lead generation: 35%
+Improved customer satisfaction: 31%
+Increased sales conversion: 25%
+
+Context: This page discusses the role of a well-defined AEO function in driving business outcomes, highlighting the importance of alignment and clear roles within the AEO function. It also covers the difference between small and large AEO teams and their respective impact on business performance.
+
+Text:
+High AEO team maturity is tied to significantly
+better business outcomes
+We asked respondents to rate their AEO function’s
+overall impact on business outcomes. Then we
+correlated their answers with their team maturity
+level to reveal the chart on the right.
+High AEO team maturity correlates with a much
+higher overall impact on business outcomes.
+Even more impressive, high-maturity AEO teams are
+1.5x more likely to say they’re a top-performing
+team within the organization.
+Small vs. Large AEO Teams:
+Does Size Matter?
+We wanted to see if the size of the AEO team
+affected business performance. So we asked
+respondents to tell us about the number of people
+on their teams. The chart below reveals the effect.
+Size matters – to a point.
+The largest teams (11+ people) have nearly the same
+positive impact as the smallest teams (1-3 people),
+but the teams in between (4-10 people) seem to
+drive better results than both.
+Overall AEO impact on business outcomes
+1.5x more likely
+to call their AEO function
+“high-impact” compared to
+low-maturity AEO teams
+Low-maturity
+Medium-maturity
+High-maturity
+No impact
+13%
+7%
+2%
+Little impact
+35%
+21%
+8%
+Some impact
+42%
+51%
+54%
+Big impact
+10%
+21%
+36%
+The AEO Divide
+8
+
+Images:
+- The first image is a bar graph illustrating the "Overall AEO impact on business outcomes." It shows the distribution of impact levels (No impact, Little impact, Some impact, Big impact) across different AEO maturity levels (Low-maturity, Medium-maturity, High-maturity). High-maturity teams have a higher proportion of "Big impact" responses, while low-maturity teams have a higher proportion of "No impact" or "Little impact" responses.
+
+- Context: This page discusses the challenges and opportunities related to content supply chains for AEO, highlighting the increasing focus on content velocity and operational efficiency. It also mentions the need to integrate AEO into content workflows to stay competitive.
+- Text: As content velocity requirements increase, content supply chain for AEO becomes a hot topic, especially for enterprise companies that are scaling AEO.
+“In general, AEO and web teams don’t communicate as frequently as they should. A lot of AEOs are not involved early enough and they end up just making changes for individual pages. I think that’s because of the nature of the role; web teams might not fully understand AEO. AEOs need to be more integrated into content workflows so they don’t become competitive disadvantages.”
+— SEO Professional, SaaS
+There is a growing opportunity to bring both sides of the content supply chain together: content strategists and the people focused on AEO.
+The AEO Divide
+9
+- Images: There are no images on this page.
+
+- Context: This page discusses about the next step of AEO. It also gives examples on how to get to the next step of AEO.
+- Text: What's the next step for AEO?
+When AI changes as fast as it does, what works today may not work tomorrow. AEO
+leaders are building their teams to be agile enough to experiment and adapt quickly.
+These examples show you how to get to the next step of AEO:
+1. Go beyond tracking AI metrics.
+Use Al-driven insights to measure ROI.
+2. Track Al search to full conversion.
+Track Al results with the rest of your KPIs.
+3. Focus on optimizing for humans and Al.
+Improve both Al and customer experience.
+- Images: There are no images on this page.
+
+Here is the OCR of the page you requested:
+
+- Context: This is page 11 of the PDF document titled "AEOWebflow.pdf". This page features a title related to how AEO exposes deeper organizational gaps.
+- Text: 02
+How AEO
+exposes deeper
+organizational
+gaps
+- Images: The image shows a slide with a black background on the left and right sides. In the middle, there's a gradient background with shades of purple and white. The title "How AEO exposes deeper organizational gaps" is prominently displayed in black text, with the number "02" above it in a smaller, blue font.
+
+
+Here is the OCR output for the given page.
+# Context:
+This page discusses how AEO can transform organizations and how to prepare for those changes.
+
+# Text:
+How AEO transforms organizations
+AEO has the potential to transform the way
+organizations are structured and how they operate.
+By breaking down silos and fostering collaboration,
+AEO can unlock new levels of efficiency, creativity,
+and customer-centricity.
+To fully realize the benefits of AEO,
+organizations must be willing to embrace change
+and adapt their cultures, processes, and
+technologies. This requires a shift in mindset
+from channel-centric to customer-centric, as well
+as a willingness to experiment and learn.
+Preparing your organization for AEO
+1. Assess your current state:
+Identify the gaps between your current
+organization structure and the AEO model.
+2. Define your vision for AEO:
+Establish clear goals and objectives for your AEO
+implementation.
+3. Develop a roadmap:
+Create a detailed plan for how you will transition
+to AEO, including timelines, milestones, and
+resource allocation.
+4. Invest in training and development:
+Provide your employees with the skills and
+knowledge they need to succeed in an AEO
+environment.
+5. Foster a culture of collaboration:
+Encourage communication and teamwork across
+departments and teams.
+6. Embrace experimentation:
+Be willing to try new approaches and learn from
+your mistakes.
+7. Monitor and measure your progress:
+Track your key performance indicators (KPIs) and
+make adjustments as needed.
+The AEO Divide
+12
+
+# Images:
+There are no images on this page.
+
+This page discusses the next steps for companies that are using AEO, including building an agile team and educating and training employees.
+
+- Text: How can companies
+get moving?
+Next steps for teams looking to succeed with AEO
+Build a truly agile AEO team
+The most successful teams are nimble enough
+to test and iterate quickly, moving from
+insights to changes to results in days, not
+weeks. They have access to the right data to
+make informed decisions quickly, and they are
+empowered to take calculated risks.
+Educate and train your teams
+There's an enormous education gap between
+today's SEOs and the AEOs of tomorrow.
+The right training can help your teams
+understand how to measure and benchmark
+results, balance Al optimization with human
+readability, and create clear, concise content.
+They need to understand how to identify
+opportunities for improvement, test new
+approaches, and quickly implement changes.
+- Images: No images found on this page.
+
+- Context: This page discusses the role of AEO in improving SEO performance, as well as the need for tools and training in order to make AEO more effective.
+- Text: Why AEO is critical to improving SEO performance
+Answer engine optimization (AEO) is the next evolution in SEO. But it’s more than just a
+trend. AEO is about ensuring your content is accurate, comprehensive, and relevant. All of
+which is key to SEO performance.
+While there are many ways to improve SEO, AEO is increasingly becoming the go-to
+strategy for brands looking to rise in the ranks. That’s because the way people search is
+evolving. More searches are conducted using voice, and with that comes a need for more
+natural-sounding results. By optimizing your content for answer engines, you can ensure
+that your brand is ready for the future of search.
+How to equip teams with the right AEO tools
+and training
+Answer engine optimization (AEO) is the key to unlocking your brand’s potential. But
+without the right tools and training, your efforts may fall flat.
+First, ensure your team understands the basics of AEO. This includes understanding the
+different types of answer engines and how they work. In addition, they should be familiar
+with the latest trends in AEO.
+Second, provide your team with the right tools. This includes tools that can help them
+analyze data, track results, and optimize content.
+Finally, provide your team with ongoing training. This will help them stay up-to-date on the
+latest trends in AEO and ensure they are using the best strategies.
+The AEO Divide
+14
+- Images: No images are present on this page.
+
+Okay, here is the OCR for page 15 of the provided document, following the requested format:
+
+# Context:
+This page discusses four key steps that enable teams to excel in Answer Engine Optimization (AEO). It elaborates on aspects like content optimization, performance tracking, adapting to customer demands, and integrating AI.
+
+# Text:
+Here’s how to get started:
+1. Optimize your content and metadata for
+discoverability.
+Teams using AEO are focusing on
+optimizing content for discoverability on
+search engines, and in answer engines.
+Ensure content is easily discoverable
+with clearly defined metadata.
+2. Continually track and measure
+performance.
+AEO demands continual monitoring of
+performance against defined KPIs.
+Leverage metrics to assess the
+effectiveness of AEO strategies and
+make data-driven adjustments.
+3. Stay agile and adapt to customer
+demands.
+AEO is an ongoing process requiring
+flexibility and adaptability. Adjust
+strategies based on customer
+feedback, market trends, and
+algorithm updates.
+4. Integrate AI and automation to
+streamline workflows.
+AI and automation technologies play a
+pivotal role in AEO. By automating tasks
+such as keyword research, content
+optimization, and performance
+monitoring, teams can focus on more
+strategic initiatives.
+
+# Images:
+There are no images on this page.
+
+
+This page appears to be the start of a new section or chapter, indicated by the large number "03" at the top. The page introduces the concept of driving AEO success.
+
+- Text: 03
+Four moves to
+drive AEO
+success
+- Images: The image is a gradient background with the text "03 Four moves to drive AEO success" on it. The background is a mix of light blues and purples.
+
+- Context: This is page 16 of the PDF "AEOWebflow.pdf", titled "The AEO Divide". The page discusses the importance of establishing ownership and success metrics for AEO (AI-powered experimentation and optimization) efforts. It includes an action plan with steps to clarify ownership, align on success indicators, and set up regular check-ins.
+- Text: Four moves to drive AEO success
+MOVE 1
+Establish
+ownership &
+success
+metrics
+Clarify who owns AEO and what success looks like.
+Right now, only a small number of teams report
+having clearly defined AEO ownership, and
+practitioners consistently point to unclear ownership
+and measurement as major roadblocks in their day-
+to-day work. Without a named owner and shared
+success criteria, AEO efforts can stay stuck in
+experimental mode and never really scale. In
+practice, the most effective AEO owners often come
+from an SEO background, since the work builds on
+technical optimization, content strategy, and
+performance measurement.
+This lines up with a bigger disconnect we're seeing in
+our data. While 68% of marketing leaders report
+having a defined, operationalized, or piloted AEO
+strategy, only 26% of practitioners claim to be
+actively implementing or are experts in AEO. That's a
+fundamental misalignment in how leadership and
+practitioners define AEO ownership and success.
+Action plan:
+→ Select a role/team to own AEO at your org
+→ Align on an initial set of success indicators
+←
+Set up regular check-ins to evaluate progress
+The AEO Divide
+16
+- Images: No images on this page.
+
+- Context: This is page 17 of the PDF which continues to describe how to drive AEO success.
+- Text: To build a great AEO team, invest in
+building up your team members' skills &
+knowledge, especially in these areas:
+AEO domain/channel knowledge:
+• Keyword research, query intent
+understanding & trend analysis
+• Audience intelligence
+• AEO competitive analysis
+• Content strategy & tactics
+• Content gap analysis
+• On-page optimization
+• Technical SEO
+• Internal linking & site structure best
+practices
+• AEO analytics & reporting
+• Basic UX principles
+• Persuasive copywriting
+• AEO campaign management
+Cross-functional skills:
+• Basic project management
+• Communication & presentation skills
+• Influencing stakeholders
+• Time management & prioritization
+• Basic business strategy acumen
+• Data synthesis & storytelling
+• Creative problem-solving
+• Resourcefulness
+• Critical thinking
+Technical skills:
+• Basic HTML & CSS proficiency
+• SEO platform experience (e.g. Ahrefs,
+Semrush, Conductor)
+• Google Analytics
+• Google Search Console
+• Google Data Studio
+• Site speed tools
+• Content management systems (CMS)
+• Spreadsheets & data visualization tools
+• AI writing & analysis tools
+The AEO Divide
+18
+- Images: No images are present on this page.
+
+- Context: This page discusses how to build a foundation with tools and technologies.
+- Text: BUILD A FOUNDATION
+WITH TOOLS AND
+TECHNOLOGIES
+One of the reasons AEO fails is because companies don’t have the technology to support it.
+Building a foundation with tools and technology will allow AEO to scale and deliver
+meaningful results.
+Action plan:
+Invest in the right technology
+Develop a measurement framework
+←
+←
+→ Create a clear martech roadmap
+→
+→
+Create a data-driven culture
+Consolidate reporting tools
+- Images: There are no images on this page.
+
+Okay, I will follow the format to OCR the page.
+
+**Context:** This page continues the discussion of four key moves to drive AEO success, focusing on long-term execution. It emphasizes the importance of establishing clear goals and metrics aligned with business outcomes.
+
+**Text:**
+**Move toward long-term execution**
+
+The principles and approaches we’ve outlined here won’t matter if your AEO ambitions are short-sighted.
+Because an effective AEO program requires constant attention to optimization, consider these questions:
+
+**1. How will you set goals and metrics around real business outcomes?**
+
+The right business metrics should be tied to AEO’s impact on revenue, cost savings, and brand reputation.
+For example, if your team’s task is to drive customer care automation, you can establish goals related to
+customer care capacity.
+
+**2. How will you measure the impact of AEO against current marketing efforts?**
+
+If you're generating sales with an AEO program, you must decide how to measure it against the performance
+of paid campaigns. An incremental lift analysis can determine whether new customers are being acquired
+through AEO.
+
+**3. How will you evolve your AEO strategy as Al platforms and algorithms change?**
+
+AEO is a moving target. To keep up with changes in Al, your team needs to be committed to learning the
+latest best practices and applying them to your strategy.
+
+**4. How will you incorporate AEO into your broader marketing tech stack?**
+
+AEO should be integrated into your broader marketing strategy. For example, you can use AEO to generate
+leads for your sales team or to drive traffic to your website.
+
+AEO: The time is now
+20
+
+**Images:** No images found on this page.
+
+
+Context: This is page 21 of the PDF (AEOWebflow.pdf). The page contains a conclusion about the importance of AEO.
+Text: 04
+Conclusion
+While most teams recognize the importance of
+AEO, many underestimate how high the cost of
+getting it wrong can be.
+Images: There are no images on this page.
+
+Here is the OCR for page 22 of the PDF (AEOWebflow.pdf).
+
+- Context: This page continues the article, talking about the benefits of using Webflow.
+- Text: 22
+In the end, Webflow’s all-in-one CMS & editor,
+enterprise-grade security & scalability, and
+unrivaled automation possibilities give you the
+foundation you need to succeed with AEO.
+
+And that success translates to measurable, bottom-
+line results: more qualified leads, faster sales cycles,
+and sustained revenue growth.
+
+The AEO Divide
+- Images: There are no images on this page.
+
+- Context: This is page 23 of the document "AEOWebflow.pdf". The page contains the title "Methodology".
+- Text: 05
+Methodology
+- Images: There is no image on this page.
+
+- Context: This page discusses the AEO Divide, focusing on the evolution of organic search and the skills marketers need to meet the demands of AEO.
+- Text: The AEO Divide
+Organic search is evolving beyond SERP
+rankings.
+Marketers must meet the demands of
+Answer Engine Optimization (AEO)
+to keep pace with a changing search landscape.
+But are marketers equipped with the
+right skillset?
+As search engines evolve from information
+retrieval to comprehensive answer engines,
+traditional keyword-centric SEO alone is no
+longer enough to maintain organic search
+visibility. Marketers must embrace
+Answer Engine Optimization (AEO).
+This modern approach to search marketing
+focuses on providing high-quality, comprehensive,
+and valuable answers across a wider range of
+surfaces, not just optimizing for a single
+ranking position on the Search Engine
+Results Page (SERP). This requires a shift in
+focus and a broader set of skills for marketers.
+36%
+of marketers say they have the skills to
+adapt to a modern search landscape.
+64%
+do not feel prepared to meet the
+demands of Answer Engine Optimization.
+Key AEO skill gaps
+Content management
+Reporting & analytics
+Technical SEO
+Structured data
+24
+- Images: There are no images on this page.
+
+
+This page contains information about AI and Machine Learning adoption in marketing.
+
+- Text: AI + Machine Learning Adoption
+Which of the following is closest to describing your current level of AI / Machine Learning adoption in marketing?
+We are in the experimental stage,
+running limited tests.
+We have moved beyond testing and
+have some AI / ML deployed.
+We have fully deployed AI / ML
+throughout marketing.
+We have fully deployed AI / ML
+throughout marketing, and it is
+transforming our organization.
+We are not currently using AI / ML,
+but plan to begin within the next
+12 months.
+We are not currently using AI / ML,
+nor do we have any plans to do so.
+37.7%
+31.4%
+10.2%
+5.1%
+10.2%
+5.3%
+25
+- Images: No images found in this crop.
+
+
+This page contains information about practitioner focus and a graph depicting the number of employees at these organizations.
+
+# Text:
+
+Practitioner Focus
+Customer experience (CX)
+Social Media Marketing
+Branding/Creative
+PR/Communications
+Employee Communications
+Company Size
+1-49 employees
+50-249 employees
+250-499 employees
+500-999 employees
+1,000-4,999 employees
+5,000-9,999 employees
+10,000+ employees
+
+26
+
+# Images:
+There is a bar graph of company size.
+
+
+- Context: This page discusses AEO assessments. It describes how the assessment will measure 1) how your content ranks for search terms, 2) how relevant and helpful your content is to your audience, and 3) how well your content answers questions about your brand.
+- Text: AEO Assessment
+
+  What you will get out of your AEO assessment
+  1. Assess how discoverable your content is
+  We’ll look into where your content currently ranks for search terms related to your offerings.
+
+  2. Assess how relevant and helpful your content is to your audience
+  We’ll determine how accurately your content meets the needs of your audience.
+
+  3. Assess how well your content answers questions about your brand
+  We’ll evaluate whether your content comprehensively answers questions about your brand.
+
+- Images: No image descriptions needed.
